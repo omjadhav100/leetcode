@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/omjadhav100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/omjadhav100/leetcode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omjadhav100/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/omjadhav100/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -30,10 +31,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/omjadhav100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/omjadhav100/leetcode/tree/master/1051-height-checker) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/omjadhav100/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/omjadhav100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/omjadhav100/leetcode/tree/master/1051-height-checker) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/omjadhav100/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/omjadhav100/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/omjadhav100/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/omjadhav100/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/omjadhav100/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
