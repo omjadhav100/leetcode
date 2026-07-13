@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/omjadhav100/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/omjadhav100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/omjadhav100/leetcode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omjadhav100/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/omjadhav100/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/omjadhav100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/omjadhav100/leetcode/tree/master/1051-height-checker) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/omjadhav100/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/omjadhav100/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/omjadhav100/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
