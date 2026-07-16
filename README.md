@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/omjadhav100/leetcode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/omjadhav100/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/omjadhav100/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/omjadhav100/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omjadhav100/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/omjadhav100/leetcode/tree/master/0127-word-ladder) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/omjadhav100/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
