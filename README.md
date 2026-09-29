@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/omjadhav100/leetcode/tree/master/0018-4sum) |
+| [0078-subsets](https://github.com/omjadhav100/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omjadhav100/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/omjadhav100/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/omjadhav100/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omjadhav100/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/omjadhav100/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/omjadhav100/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
