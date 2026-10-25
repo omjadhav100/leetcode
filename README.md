@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/omjadhav100/leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/omjadhav100/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/omjadhav100/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -133,4 +134,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/omjadhav100/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/omjadhav100/leetcode/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/omjadhav100/leetcode/tree/master/0338-counting-bits) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/omjadhav100/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/omjadhav100/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/omjadhav100/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/omjadhav100/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/omjadhav100/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
